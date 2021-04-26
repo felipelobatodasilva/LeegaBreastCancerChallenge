@@ -1,5 +1,5 @@
 # LeegaBreastCancerChallenge
-To create a model for Breast Cancer challenge given by Leega, in order to check whether the knowledge has been absorved properly
+To create a model for Breast Cancer challenge given by Leega, and then checking whether the knowledge has been absorved properly
 
 Here are Some tips to be thought after doing the tests and trainning on the dataset:
 
