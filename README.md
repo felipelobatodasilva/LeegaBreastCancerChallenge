@@ -1,8 +1,12 @@
 # LeegaBreastCancerChallenge
 To create a model for Breast Cancer challenge given by Leega, in order to check whether the knowledge has been absorved properly
 
+Some tips to be thought by creating a model:
 
-![image](https://user-images.githubusercontent.com/69978184/116032956-ebd54700-a636-11eb-893a-420eaada698b.png)
+![image](https://user-images.githubusercontent.com/69978184/116033838-8c783680-a638-11eb-992b-236bd7a19692.png)
 
-![image](https://user-images.githubusercontent.com/69978184/116033033-0f988d00-a637-11eb-8363-b8fbdcbc6f63.png)
+![image](https://user-images.githubusercontent.com/69978184/116033924-b16ca980-a638-11eb-98fc-2d075f1a692a.png)
+
+
+That is all folks! :)
 
